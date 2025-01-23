@@ -1,0 +1,9 @@
+D1-UX_CR_100_MR_0,,,,D1-OPX_CR_100_MR_0,,
+S1 Stats,Statistic,Value,,S2 Stats,Statistic,Value
+0,Min,0.259912232,,0,Min,0.284918926
+1,Max,0.619831271,,1,Max,0.639044605
+2,Mean,0.283976155,,2,Mean,0.307352878
+3,Median,0.259912232,,3,Median,0.284918926
+4,Std Dev,0.071433795,,4,Std Dev,0.068394099
+5,U-Test Statistic,2778,,5,U-Test Statistic,19722
+6,U-Test P-Value,9.39E-34,,6,U-Test P-Value,9.39E-34
